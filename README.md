@@ -1,0 +1,2 @@
+# AzurLanePaintingLocalization
+碧蓝航线立绘本地化重命名
