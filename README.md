@@ -20,6 +20,6 @@
 
 ### Special Thanks
 
-@[Goodjooy](https://github.com/azurlane-doujin/AzurLanePaintingExtract-v1.0/commits?author=Goodjooy)
+@[Goodjooy](https://github.com/Goodjooy)
 
 @[OwKali](https://github.com/OwKali)
