@@ -4,18 +4,18 @@
 
 本项目作为碧蓝航线立绘导出工具 [AzurLanePaintingTool (下简称ALPT)](https://github.com/azurlane-doujin/AzurLanePaintingExtract-v1.0) 的附属项目，通常无需手动下载，可于 [ALPT](https://github.com/azurlane-doujin/AzurLanePaintingExtract-v1.0) 软件内直接更新。[ALPT教程点我](https://www.bigfun.cn/post/219941)
 
-最后更新：2021.5.6 ~~（咕咕咕ing）~~
+最后更新：2021.5.31 ~~（咕咕咕ing）~~
 
 <details>
     <summary>各服立绘名整理情况</summary>
 
 
-国服`5.2.113`(2021.5.6)
+国服`5.5.27`(2021.5.31)
 
 
-日服`5.0.360`(2020.11.26)
+日服`5.3.48`(2021.5.31)
 
-美服`5.0.142`(2020.6.27)
+美服`5.1.491`(2021.5.31)
 
 台服`3.3.92`(2020.3.26)
 
