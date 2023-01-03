@@ -4,18 +4,18 @@
 
 本项目作为碧蓝航线立绘导出工具 [AzurLanePaintingTool (下简称ALPT)](https://github.com/azurlane-doujin/AzurLanePaintingExtract-v1.0) 的附属项目，网络允许的情况下通常无需手动下载，可于 [ALPT](https://github.com/azurlane-doujin/AzurLanePaintingExtract-v1.0) 软件内直接更新。[ALPT教程点我](https://www.bigfun.cn/post/219941)
 
-最后更新：2022.1.30 ~~（咕咕咕ing）~~
+最后更新：2023.1.4 ~~（被榨干力）~~
 
 <details>
     <summary>各服立绘名整理情况</summary>
 
 
-国服`6.0.100`(2022.1.27)
+国服`6.2.352`(2023.1.4)
 
 
-日服`6.1.88`(2022.1.27)
+日服`6.3.139`(2023.1.4)
 
-美服`6.0.969`(2022.1.27)
+美服`6.1.458`(2023.1.4)
 
 台服`3.3.92`(2020.3.26)
 
@@ -93,7 +93,7 @@
 | u101                   | u-101                                          | U艇系列原名均为“u-xxx”                                       |
 | z1                     | z1                                             | z驱系列原名均为“zxxx”                                        |
 |                        |                                                |                                                              |
-|                        |                                                |                                                              |
+| yueke_ger              | 约克(铁血)[1]                                  | 此船与皇家约克重名，先来后到                                 |
 |                        |                                                |                                                              |
 |                        |                                                |                                                              |
 |                        |                                                |                                                              |
