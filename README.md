@@ -2,15 +2,14 @@
 
 > 碧蓝航线立绘本地化重命名，目前仅支持中文
 
-本项目作为碧蓝航线立绘导出工具 [AzurLanePaintingTool (下简称ALPT)](https://github.com/azurlane-doujin/AzurLanePaintingExtract-v1.0) 的附属项目，网络允许的情况下通常无需手动下载，可于 [ALPT](https://github.com/azurlane-doujin/AzurLanePaintingExtract-v1.0) 软件内直接更新。[ALPT教程点我](https://www.bigfun.cn/post/219941)
+本项目作为碧蓝航线立绘导出工具 [AzurLanePaintingTool (下简称ALPT)](https://github.com/azurlane-doujin/AzurLanePaintingExtract-v1.0) 的附属项目。[ALPT教程点我](https://www.bigfun.cn/post/219941)
 
 此项目为上述项目分支，采用不同更新方式，根据程序显示来翻译内容，与主项目存在差别。请注意选择。
 
 当前为2022/12/22大更新解包版本，请注意时效性。
 
 >2023/01/04 更新至字母a, aerbien_n aerbien_front aijier_bg1未能找到合适的中文名，所以没有翻译。
->2023/01/05 更新至字母b, 无新增无法翻译项目。
->2023/01/05 更新至字母c, 无新增无法翻译项目。
+
 >2023/01/06 更新至字母d, devil未能找到对应的中文，所以没有翻译。
 
 ## 手动更新方法
