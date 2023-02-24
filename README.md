@@ -27,9 +27,9 @@
 
 1. **下载本地化文件**
 
-    在本fork的release里点击下载，然后替换掉ALPT/core/assets/names.json，再次打开ALPT就可以看到翻译完成的。
+    在本fork的release里点击下载，然后替换掉`ALPT/core/assets/names.json`，再次打开ALPT就可以看到翻译完成的。
     
-    或，在本地新建一个.json，然后点进本项目的names.json，全选复制进本地文件，就完成了。
+    或，在本地新建一个.json，然后点进本项目的`names.json`，全选复制进本地文件，就完成了。
 
 2. **应用本地化更新**
 
