@@ -1,12 +1,12 @@
 # AzurLanePaintingLocalization
 
 > 碧蓝航线立绘本地化重命名，目前仅支持中文
-
+>
 >本项目作为碧蓝航线立绘导出工具 [AzurLanePaintingTool (下简称ALPT)](https://github.com/azurlane-doujin/AzurLanePaintingExtract-v1.0) 的附属项目。[ALPT教程点我](https://www.bigfun.cn/post/219941)
 
 此项目为上述项目分支，采用不同更新方式，根据程序显示来翻译内容，与主项目存在差别。请注意选择。
 
-当前为2023/03/31更新解包版本，请注意时效性。
+当前为2023/06/01更新解包版本，请注意时效性。
 
 >2023/01/13 12/22版本更新完成，剩余devil, qiabayefu_2_n, sairenboss14_jz无翻译。
 >
