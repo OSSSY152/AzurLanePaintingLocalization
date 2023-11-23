@@ -1,18 +1,19 @@
-# AzurLanePaintingLocalization
+# AzurLanePaintingLocalization（CN Only）
 
 > 碧蓝航线立绘本地化重命名，目前仅支持中文
 
-本项目作为碧蓝航线立绘导出工具 [AzurLanePaintingTool (下简称ALPT)](https://github.com/azurlane-doujin/AzurLanePaintingExtract-v1.0) 的附属项目，网络允许的情况下通常无需手动下载，可于 [ALPT](https://github.com/azurlane-doujin/AzurLanePaintingExtract-v1.0) 软件内直接更新。[ALPT教程点我](https://www.bigfun.cn/post/219941)
+本项目作为碧蓝航线立绘导出工具 [AzurLanePaintingTool (下简称ALPT)](https://github.com/azurlane-doujin/AzurLanePaintingExtract-v1.0) 的附属项目，网络允许时通常无需手动下载，可于 [ALPT](https://github.com/azurlane-doujin/AzurLanePaintingExtract-v1.0) 软件内直接更新。[ALPT教程点我](https://www.bigfun.cn/post/219941)
 
-最后更新：2023.10.27 ~~（被榨干力）~~
+最后更新：2023.11.23 ~~（被榨干力）~~
 
 
 
 <details>
-    <summary>各服立绘名整理情况</summary>
+    <summary>各服立绘文件支持情况</summary>
 
 
-国服`7.1.207`(2023.10.26)
+
+国服`7.1.240`(2023.11.23)
 
 
 日服`6.3.139`(2023.1.4)
@@ -33,7 +34,7 @@
 
 0. **下载ALPT**（已安装请跳过）
 
-   在 [ALPT 的下载页面](https://github.com/azurlane-doujin/AzurLanePaintingExtract-v1.0/releases)内找到`Latest release`标签，并展开其对应的`▶Assets`，下载其中无`Source Code`字样的压缩包，下载完成后解压。
+   在 [ALPT 最新版本的下载页面](https://github.com/azurlane-doujin/AzurLanePaintingExtract-v1.0/releases/latest)内，在下方的`▶Assets`中，下载无`Source Code`字样的压缩包，下载完成后解压。
 
 1. **下载本地化文件**
 
@@ -129,7 +130,7 @@
 > 3. 塞壬阵营/指挥喵等不受前两条的约束。
 > 4. 当一组图片相互叠加才能形成完整立绘时，将其命名为[n]。
 > 5. 当一组图片中存在包含舰装的完整立绘时，将其中无舰装的立绘命名为【无舰装】。
-> 6. 当【】内存在多个要素时，按照【黑.无背景.无舰装.和谐.插画】的顺序依次命名。
+> 6. 当【】内存在多个要素时，按照【黑.大破.无背景.无舰装.和谐.插画】的顺序依次命名。
 > 7. 舰名中出现的所有英文字母均转为小写。
 > 6. 立绘名中出现的“ . , ? ! ”等半角特殊字符均转为其全角形式“ 。，？！”。
 > 6. 进行本地化时，应以图片内容为主，原始文件名和本命名规范仅作参考。
