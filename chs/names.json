@@ -3234,5 +3234,9 @@
     "zi_shanluan_rw_ex": "\u7d2b[3]\u3010\u5927\u7834\u3011",
     "zi_shanluan_s": "\u7d2b\u3010\u63d2\u753b\u3011",
     "zi_2_shanluan": "\u7d2b.\u76ae\u80a41 \u88ab\u56f0\u516c\u4e3b\u7684\u5fe7\u90c1",
-    "zi_2_shanluan_n": "\u7d2b.\u76ae\u80a41 \u88ab\u56f0\u516c\u4e3b\u7684\u5fe7\u90c1\u3010\u65e0\u80cc\u666f\u3011"
+    "zi_2_shanluan_n": "\u7d2b.\u76ae\u80a41 \u88ab\u56f0\u516c\u4e3b\u7684\u5fe7\u90c1\u3010\u65e0\u80cc\u666f\u3011",
+    "jiluofu_alter_rw": "\u57fa\u6d1b\u592b\u00b7META[1]",
+    "jiluofu_alter_n": "\u57fa\u6d1b\u592b\u00b7META[2]\u3010\u65e0\u80cc\u666f\u3011",
+    "jiluofu_alter": "\u57fa\u6d1b\u592b\u00b7META[2]",
+    "970206": "\u57fa\u6d1b\u592b\u00b7META\u3010\u63d2\u753b\u3011"
 }
